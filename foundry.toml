@@ -3,4 +3,7 @@ src = "src"
 out = "out"
 libs = ["lib"]
 
+[etherscan]
+sepolia = { key = "SSG3DT9WECEVSMASN8BRBQX3IW9E3B4DID"}
+
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
